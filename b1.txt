@@ -1,3 +1,7 @@
 hoi
 
+<<<<<<< Updated upstream
 hello a second change in stash
+=======
+its a stash change
+>>>>>>> Stashed changes
